@@ -1,4 +1,3 @@
-Here's your repository content with beautiful buttons and icons:
 
 <div class = "repo" align = "center">
  
