@@ -11,6 +11,7 @@ module.exports = {
     FOOTER: process.env.FOOTER || "*© 𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 - 𝟐𝟎𝟐𝟓*",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/50Qd4Kws/IMG-20250312-WA0022.jpg",
 HEART_REACT: process.env.HEART_REACT || 'false',
+AUTO_REACT: process.env.AUTO_REACT || 'false',
 WELCOME: process.env.WELCOME || 'false',
     SUDO: process.env.SUDO === undefined ? '94741671668,94771820962' : process.env.SUDO,
  AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ? "true" : process.env.AUTO_READ_STATUS,
