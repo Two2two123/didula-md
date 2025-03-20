@@ -70,7 +70,7 @@
 
 <div align="center">
   <h3>📱 Scan QR & Installation</h3>
-  <a href="https://webd-git-main-didula-rashmikas-projects.vercel.app/">
+  <a href="https://webd-theta.vercel.app/">
     <img src="https://img.shields.io/badge/🔍_Scan_QR_Code-blue?style=for-the-badge&logo=whatsapp">
   </a>
 </div>
