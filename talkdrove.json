@@ -1,0 +1,20 @@
+
+{
+    "bot-name": "Didula-MD",
+    "description": "Didula-MD made for people on Earth",
+    "logo": "https://i.postimg.cc/50Qd4Kws/IMG-20250312-WA0022.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://prabath-md-pair-web-v2-slk.koyeb.app/pair",
+    "owner-verification":"support@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here, https://prabath-md-pair-web-v2-slk.koyeb.app/pair",
+        "value":"",
+        "required": true
+        
+      }
+    
+    }
+  
+  }
