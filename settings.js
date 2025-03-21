@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID === undefined ? 'PRABATH-MD~rSxjTaBb#lasWIW0uLeWr-TY6fVGKm5ETRO7x0kZrYEVT5a2EQBI' : process.env.SESSION_ID,
+    SESSION_ID: process.env.SESSION_ID === undefined ? 'PRABATH-MD~EiVmSZpR#kXyu4xUaduB3vg6lDitL2iQtLhDR6tasZnlW82JBjZ0' : process.env.SESSION_ID,
     PREFIX: process.env.PREFIX || '.',
     FOOTER: process.env.FOOTER || "*© 𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 - 𝟐𝟎𝟐𝟓*",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/50Qd4Kws/IMG-20250312-WA0022.jpg",
